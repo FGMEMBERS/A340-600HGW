@@ -2276,7 +2276,10 @@ Liam Gathercole, Andino
         <property>gear/gear[3]/rollspeed-ms</property>
         <factor>10</factor>
 	<condition>
-		<property>/gear/gear[3]/wow</property>
+		<and>
+		<property>/gear/gear[1]/wow</property>
+		<property>/gear/gear[2]/wow</property>
+		</and>
 	</condition>
         <axis>
             <x>0</x>
@@ -2301,8 +2304,10 @@ Liam Gathercole, Andino
         <property>gear/gear[3]/rollspeed-ms</property>
         <factor>10</factor>
 	<condition>
-		<property>/gear/gear[3]/wow</property>
-		<value>true</value>
+		<and>
+		<property>/gear/gear[1]/wow</property>
+		<property>/gear/gear[2]/wow</property>
+		</and>
 	</condition>
         <axis>
             <x>0</x>
