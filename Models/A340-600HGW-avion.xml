@@ -1678,7 +1678,7 @@ Liam Gathercole, Andino
 <animation>
 	<type>translate</type>
 	<object-name>enginel1reverser</object-name>
-	<property>surface-positions/reverser-norm</property>
+	<property>sim/multiplay/generic/float[6]</property>
 	<factor>0.6</factor>
 	<axis>
 		<x>1</x>
@@ -1690,7 +1690,7 @@ Liam Gathercole, Andino
 <animation>
 	<type>translate</type>
 	<object-name>enginel2reverser</object-name>
-	<property>surface-positions/reverser-norm</property>
+	<property>sim/multiplay/generic/float[6]</property>
 	<factor>0.6</factor>
 	<axis>
 		<x>1</x>
@@ -1702,7 +1702,7 @@ Liam Gathercole, Andino
 <animation>
 	<type>translate</type>
 	<object-name>enginer1reverser</object-name>
-	<property>surface-positions/reverser-norm</property>
+	<property>sim/multiplay/generic/float[6]</property>
 	<factor>0.6</factor>
 	<axis>
 		<x>1</x>
@@ -1714,7 +1714,7 @@ Liam Gathercole, Andino
 <animation>
 	<type>translate</type>
 	<object-name>enginer2reverser</object-name>
-	<property>surface-positions/reverser-norm</property>
+	<property>sim/multiplay/generic/float[6]</property>
 	<factor>0.6</factor>
 	<axis>
 		<x>1</x>
