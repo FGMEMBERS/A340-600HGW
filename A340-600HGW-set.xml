@@ -828,7 +828,7 @@ During turbulant conditions, The seatbelt warning sound should be initiated by t
                 </category-13>
             </configuration-module>
             <voice>
-                <file-prefix type="string">Sounds/mk-viii/</file-prefix>
+                <file-prefix type="string">Aircraft/A340-600HGW/Sounds/mk-viii/</file-prefix>
             </voice>
             <inputs>                            <!-- Module I/O -->
                 <arinc429>
